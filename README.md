@@ -13,3 +13,7 @@ Citizen AI is an intelligent citizen engagement platform designed to revolutioni
 
 ## Google Colab Link:
 https://colab.research.google.com/drive/1gfDfF-6nZKmVJUH5Q-STpEy9o3EZskDI?usp=sharing
+
+
+## Demo Video Link:
+https://drive.google.com/drive/folders/1j9mddEK7cfk4ULnNaHwqtcPz6_NiqOEb?usp=sharing
